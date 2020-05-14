@@ -106,7 +106,7 @@ try {
 ## Caveats
 
 Correctly using `rename-css-selectors` on large project means few rules should be followed.
-[This document](docs/caveats.md) explains most of them.
+[This document](docs/api/caveats.md) explains most of them.
 
 # LICENSE
 
